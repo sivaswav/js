@@ -12,3 +12,5 @@ git add tempratur\index.html
 git commit -a -m "temprature html created"
 git diff --name-status master
 git diff master
+git ls-tree -r branch
+git ls-files
