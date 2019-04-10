@@ -1,0 +1,14 @@
+git
+git help
+git config --global user.name sivaswav
+git config --global user.email "vichchu.kct@gmail.com"
+git clone https://github.com/sivaswav/js
+git branch
+git checkout -b tempratur
+git checkout master
+git checkout tempratur
+git add tempratur
+git add tempratur\index.html
+git commit -a -m "temprature html created"
+git diff --name-status master
+git diff master
