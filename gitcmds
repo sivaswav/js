@@ -14,3 +14,4 @@ git diff --name-status master
 git diff master
 git ls-tree -r branch
 git ls-files
+git rm -f lof
